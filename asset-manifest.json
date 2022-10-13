@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaazaKhabar/static/css/main.31d6cfe0.css",
+    "main.js": "/TaazaKhabar/static/js/main.6121a2b7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TaazaKhabar/static/js/787.28cb0dcd.chunk.js",
+    "static/media/loading.gif": "/TaazaKhabar/static/media/loading.0c2993480d0ca8008754.gif",
+    "index.html": "/TaazaKhabar/index.html",
+    "main.6121a2b7.js.map": "/TaazaKhabar/static/js/main.6121a2b7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TaazaKhabar/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6121a2b7.js"
+  ]
+}
